@@ -2,6 +2,10 @@
 
 A 3D top down shooter game made I made in Unity in 2019.
 
+## Screenshot
+
+![Top Down Shooter](/Screenshot.png)
+
 ## Controls
 
 * **Forwards:** W / Up Arrow
